@@ -1,12 +1,12 @@
-﻿using FactoryPattern.Beverages;
-using FactoryPattern.Decorators;
+﻿using DecoratorPattern.Beverages;
+using DecoratorPattern.Decorators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryPattern
+namespace DecoratorPattern
 {
     class Program
     {

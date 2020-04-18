@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryPattern.Beverages
+namespace DecoratorPattern.Beverages
 {
     public class Latte : Beverage
     {
